@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ssh_cmd</string>
+    <string name="hostname">Hostname / IP-ADDR</string>
+    <string name="port">Port</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="connect">Connect</string>
+</resources>
